@@ -614,7 +614,7 @@ export default function RatioMaker() {
       <div className="flex items-baseline justify-between mb-4 border-b-2 border-[#24303A] pb-3">
         <div>
           <h1 className="text-xl font-bold tracking-tight">
-            Cutting Ratio Planner
+            Ratio Planner
           </h1>
           <p className="text-xs text-[#5A5343] tracking-wide">
             grading groups → marker ratio → layer plan
